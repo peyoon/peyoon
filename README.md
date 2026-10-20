@@ -10,7 +10,6 @@
 
 <a href="mailto:yooneunpyeong@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/peyoon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=peyoon&style=flat-square&color=4FC3F7&label=Profile+Views"/>
 
 </div>
 
@@ -52,8 +51,9 @@
 | Project | Description | Stack |
 |:--|:--|:--|
 | 🎯 **ADIS** | 방공 요격 시뮬레이션 시스템 — SIM이 UDP(10Hz)로 표적 데이터를 송신하고, GCS가 전술 레이더 화면에 실시간 표시 · TCP로 요격 명령 전송. 12바이트 공통 헤더(SYNC · MSG_ID · SEQ · CHECKSUM) 패킷 설계, Heartbeat 기반 통신 상태 감시 | C# WPF · C++ DLL (P/Invoke) · UDP/TCP |
-| 📡 **Radar Simulator (OJT)** | 레이더 시뮬레이터 — DMS↔Decimal, Degree↔Mil 좌표 변환, INI 기반 설정 저장, 멀티 윈도우 간 데이터 공유 | C# WPF |
+| 📡 **[Radar Simulator (OJT)](https://github.com/peyoon/-Project-SIMSW)** | 레이더 시뮬레이터 — DMS↔Decimal, Degree↔Mil 좌표 변환, INI 기반 설정 저장, 멀티 윈도우 간 데이터 공유 | C# WPF |
 | ☢️ **Gamma Spectrum HMI** | 감마 스펙트럼 기반 핵종 판별 HMI — CNN 모델을 ONNX로 내보내 C#에서 추론, 실시간 스펙트럼 차트 · 핵종별 확률 표시 · Python↔C# 전처리 검증 | C# WPF · ONNX Runtime · PyTorch |
+| 🗓️ **[Club Management System](https://github.com/peyoon/-Project-Club-management-system)** | 회사 동호회 일정 관리 시스템 — 동호회 일정 등록 · 조회 · 관리 | C# WPF |
 
 <br/>
 
@@ -70,8 +70,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=peyoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyoon&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=peyoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyoon&layout=compact&hide=jupyter%20notebook,html,css,javascript&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=peyoon&theme=tokyonight&hide_border=true" />
 
