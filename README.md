@@ -44,17 +44,9 @@ SIM이 UDP(10Hz)로 표적 데이터를 보내면 GCS가 전술 레이더 화면
 CNN 모델을 ONNX로 내보내 C#에서 추론하고, 실시간 스펙트럼 차트와 핵종별 확률을 보여줍니다. Python과 C#의 전처리 결과를 대조하는 검증 기능을 넣었습니다.  
 <sub>`C# WPF` `ONNX Runtime` `PyTorch`</sub>
 
-**Radar Simulator** · 레이더 시뮬레이터  
-DMS ↔ Decimal, Degree ↔ Mil 좌표 변환, INI 기반 설정 저장, 여러 창 간 데이터 공유를 구현했습니다.  
-<sub>`C# WPF`</sub>
-
-**Club Management System** · 동호회 일정 관리  
-회사 동호회 일정을 등록하고 조회 · 관리하는 데스크톱 앱입니다.  
-<sub>`C# WPF`</sub>
-
 <p>
-  <a href="https://github.com/peyoon/-Project-SIMSW"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=peyoon&repo=-Project-SIMSW&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/></a>
-  <a href="https://github.com/peyoon/-Project-Club-management-system"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=peyoon&repo=-Project-Club-management-system&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/></a>
+  <a href="https://github.com/peyoon/-Project-SIMSW"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=peyoon&repo=-Project-SIMSW&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/></a>
+  <a href="https://github.com/peyoon/-Project-Club-management-system"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=peyoon&repo=-Project-Club-management-system&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -71,9 +63,6 @@ DMS ↔ Decimal, Degree ↔ Mil 좌표 변환, INI 기반 설정 저장, 여러 
 ### Stats
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=peyoon&show_icons=true&hide_rank=true&count_private=true&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyoon&layout=compact&hide=jupyter%20notebook,html,css,javascript&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/>
-</p>
-<p>
-  <img height="150" src="https://streak-stats.demolab.com?user=peyoon&background=0a0d14&border=0a0d14&stroke=1e293b&ring=22d3ee&fire=3b82f6&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b&border_radius=12"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=peyoon&show_icons=true&hide_rank=true&count_private=true&card_width=495&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=peyoon&background=0a0d14&border=0a0d14&stroke=1e293b&ring=22d3ee&fire=3b82f6&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b&border_radius=12"/>
 </p>
