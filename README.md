@@ -9,7 +9,7 @@
 
 실시간 데이터를 받아 **화면에 보여주고, 명령을 다시 내려보내는 HMI 소프트웨어** 개발
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### Tech Stack
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### Projects
 
@@ -48,7 +48,7 @@ CNN 모델을 ONNX로 내보내 C#에서 추론하고, 실시간 스펙트럼 �
   <a href="https://github.com/peyoon/-Project-Club-management-system"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=peyoon&repo=-Project-Club-management-system&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/></a>
 </p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### Experience
 
@@ -57,11 +57,11 @@ CNN 모델을 ONNX로 내보내 C#에서 추론하고, 실시간 스펙트럼 �
 - Wireshark와 CSV 대조로 패킷 무결성을 검증하고, Pcap 데이터의 포트 역전 문제를 추적해 해결
 - 사용자가 설정한 개수만큼 생성되는 동적 게이지 패널 UI 개발
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### Stats
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=peyoon&show_icons=true&hide_rank=true&count_private=true&card_width=495&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=peyoon&background=0a0d14&border=0a0d14&stroke=1e293b&ring=22d3ee&fire=3b82f6&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b&border_radius=12"/>
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=peyoon&show_icons=true&hide_rank=true&count_private=true&card_width=495&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/>
+  <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=peyoon&background=0a0d14&border=0a0d14&stroke=1e293b&ring=22d3ee&fire=3b82f6&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b&border_radius=12"/>
 </p>
