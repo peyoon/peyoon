@@ -43,11 +43,6 @@ SIM이 UDP(10Hz)로 표적 데이터를 보내면 GCS가 전술 레이더 화면
 CNN 모델을 ONNX로 내보내 C#에서 추론하고, 실시간 스펙트럼 차트와 핵종별 확률을 보여줍니다. Python과 C#의 전처리 결과를 대조하는 검증 기능을 넣었습니다.  
 <sub>`C# WPF` `ONNX Runtime` `PyTorch`</sub>
 
-<p>
-  <a href="https://github.com/peyoon/-Project-SIMSW"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=peyoon&repo=-Project-SIMSW&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/></a>
-  <a href="https://github.com/peyoon/-Project-Club-management-system"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=peyoon&repo=-Project-Club-management-system&bg_color=0a0d14&title_color=f8fafc&text_color=94a3b8&icon_color=22d3ee&hide_border=true&border_radius=12"/></a>
-</p>
-
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### Experience
